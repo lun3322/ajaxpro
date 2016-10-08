@@ -1,0 +1,7 @@
+C:\Users\chen\Desktop\ajaxpro-99885\AjaxPro\bin\Debug\AjaxPro.dll
+C:\Users\chen\Desktop\ajaxpro-99885\AjaxPro\bin\Debug\AjaxPro.pdb
+C:\Users\chen\Desktop\ajaxpro-99885\AjaxPro\obj\Debug\AjaxPro.csprojResolveAssemblyReference.cache
+C:\Users\chen\Desktop\ajaxpro-99885\AjaxPro\obj\Debug\AjaxPro.dll
+C:\Users\chen\Desktop\ajaxpro-99885\AjaxPro\obj\Debug\AjaxPro.pdb
+C:\Users\chen\Desktop\ajaxpro-99885\AjaxPro\bin\Debug\TKF.Common.dll
+C:\Users\chen\Desktop\ajaxpro-99885\AjaxPro\bin\Debug\TKF.Common.pdb
